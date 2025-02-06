@@ -23,9 +23,13 @@ In the Spring of 2025, I took a Quantitative Reasoning class based in R. Here's 
 ## Resume
 [Link to Resume](https://drive.google.com/file/d/1HOWe21xX3S0_Wr1N5f6HZ0LcR618oC_R/view?usp=sharing)
 
-## Course Information
+---
+**Course Information**
+
 * **Course**: ESS 330
 * **Year**: Senior
 * **Major**: Ecosystem Science and Sustainability
 * **OS**: MacOS
+
+
 
